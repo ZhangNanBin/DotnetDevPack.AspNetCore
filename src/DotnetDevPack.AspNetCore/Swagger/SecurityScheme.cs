@@ -1,7 +1,7 @@
-﻿using System.ComponentModel;
-
-namespace DotnetDevPack.AspNetCore.Swagger
+﻿namespace DotnetDevPack.AspNetCore.Swagger
 {
+  using System.ComponentModel;
+
   /// <summary>
   /// Swagger安全方案
   /// </summary>

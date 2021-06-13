@@ -1,6 +1,5 @@
 ﻿namespace DotnetDevPack.AspNetCore.Swagger
 {
-
   using System;
   using DotnetDevPack.Utilities;
   using Microsoft.AspNetCore.Builder;
