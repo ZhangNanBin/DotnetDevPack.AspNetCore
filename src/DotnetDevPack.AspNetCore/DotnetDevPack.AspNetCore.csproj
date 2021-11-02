@@ -12,20 +12,21 @@
     <RepositoryUrl>https://github.com/ZhangNanBin/DotnetDevPack.AspNetCore</RepositoryUrl>
     <RepositoryType>Public</RepositoryType>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Version>1.0.1-beta</Version>
+    <PackageVersion>1.0.2-beta</PackageVersion>
+    <Version>1.0.2-beta</Version>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
-    <PackageReference Include="DotnetDevPack" Version="1.0.1-beta" />
+    <PackageReference Include="DotnetDevPack" Version="1.0.2-beta" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="5.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="2.2.0" />
-    <PackageReference Include="NSwag.AspNetCore" Version="13.11.3" />
-    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.1.4" />
-    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.1.4" />
-    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.1.4" />
+    <PackageReference Include="NSwag.AspNetCore" Version="13.13.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.2.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.2.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.2.3" />
   </ItemGroup>
   
   <ItemGroup>

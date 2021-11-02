@@ -11,9 +11,6 @@
 ### CorsOrigin参数描述
 * CorsOrigin ：跨域源，类型为字符串数组;
 
-
-
-
 ## 使用DotnetDevPack.AspNetCore.Swagger配置
 
 ### 配置
